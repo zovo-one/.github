@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Sponsor this work
+    url: https://github.com/sponsors/theluckystrike
+    about: Sponsorship pays for maintenance across all of these projects.
+  - name: Hire the maintainer
+    url: https://www.axdale.com/?utm_source=github&utm_medium=issue&utm_campaign=hire
+    about: Send a written brief for paid engineering work.

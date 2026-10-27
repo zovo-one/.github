@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest an improvement.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What you're trying to do
+      description: Describe the problem first, then the change you'd like.
+    validations:
+      required: true
+  - type: dropdown
+    id: help
+    attributes:
+      label: Would you like to send a pull request for it
+      options:
+        - "Yes"
+        - "Maybe, with some guidance"
+        - "No"
